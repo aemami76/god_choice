@@ -1,16 +1,10 @@
 # god_choice
 
-A new Flutter project.
+A simple Flutter project powered by GetX.
 
-## Getting Started
+ScreenShots:
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/aemami76/god_choice/assets/137769785/6fd69a3a-edaf-45ac-87b2-426840b0192b)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/aemami76/god_choice/assets/137769785/991fb740-df76-4aa4-a527-a7d753d3e655)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
